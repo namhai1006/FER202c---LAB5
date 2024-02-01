@@ -1,0 +1,47 @@
+/* AnimalCard.css */
+
+.animal-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover; /* Đảm bảo rằng hình ảnh sẽ điều chỉnh kích thước mà vẫn giữ tỉ lệ khung hình */
+  }
+  .animal-card{
+    background-color: #FEC000;
+    border-radius: 2px;
+    
+  }
+  /* AnimalCard.css */
+
+  .info-frame1 {
+    padding-left: 20px;
+    border: 1px solid #ddd;
+    display: flex;
+    margin-left: 15px; /* Adjust left margin */
+    margin-right: 15px; /* Adjust right margin */
+   background-color: white;
+   font-family: 'Your Font Name', sans-serif;
+  }
+  .info-frame2 {
+    padding-left: 20px;
+    border: 1px solid #ddd;
+    display: flex;
+    margin-left: 15px; /* Adjust left margin */
+    margin-right: 15px; /* Adjust right margin */
+    background-color: white;
+  }
+  .info-frame3 {
+    padding-left: 20px;
+    border: 1px solid #ddd;
+    display: flex;
+    margin-left: 15px; /* Adjust left margin */
+    margin-right: 15px; /* Adjust right margin */
+    background-color: white;
+  }
+  .button{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 1px solid white ;
+  }
+  /* Các quy tắc CSS khác có thể được thêm vào tại đây cho các trường hợp cụ thể */
+  
